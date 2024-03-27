@@ -1,7 +1,7 @@
 {
-  "name": "02.-number-guessing",
+  "name": "@saad33/number-guessing-game",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple number guessing game",
   "main": "index.js",
   "type": "module",
   "scripts": {

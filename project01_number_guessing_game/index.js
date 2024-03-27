@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 console.log(" Guess a number between 1 to 8 ");
 let x = Math.floor(Math.random() * 7);
 import inquirer from "inquirer";
