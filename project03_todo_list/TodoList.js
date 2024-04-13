@@ -16,7 +16,7 @@ while (Condition) {
             }
         },
         {
-            name: 'Question 2',
+            name: 'Question2',
             type: 'confirm',
             message: 'Do you want to add more todos ?',
             default: true,
